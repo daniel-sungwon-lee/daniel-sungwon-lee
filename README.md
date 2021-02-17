@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there, I'm Daniel
+
+I'm a web developer who loves making high quality applications and websites with great design. I also love nature and cooking things from scratch.
+
 
 <!--
 **daniel-sungwon-lee/daniel-sungwon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
