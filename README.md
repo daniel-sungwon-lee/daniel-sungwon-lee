@@ -2,7 +2,7 @@
 
 **I'm a web developer who loves making high quality applications and websites with great design. I also love nature and cooking things from scratch.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sungwon-lee&layout=compact)](https://github.com/daniel-sungwon-lee/github-readme-stats) [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sungwon-lee&hide=stars,contribs&show_icons=true&theme=graywhite)](https://github.com/daniel-sungwon-lee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sungwon-lee&layout=compact&theme=dark)](https://github.com/daniel-sungwon-lee/github-readme-stats) [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sungwon-lee&hide=stars,contribs&show_icons=true&theme=dark)](https://github.com/daniel-sungwon-lee/github-readme-stats)
 
 ## Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" alt="JavaScript logo"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="43" alt="CSS logo"></a>
