@@ -17,7 +17,7 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" alt="Git logo"></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="35" alt="Figma logo"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" alt="VS Code logo"></a>
-<a href="https://www.heroku.com/" target="_blank"><img src="https://user-images.githubusercontent.com/69870979/108276035-0cab8880-712c-11eb-9ad5-eed4aa306fab.png" width="50" alt="Heroku logo"></a>
+<a href="https://www.heroku.com/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/873/873120.png" width="50" alt="Heroku logo"></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" alt="Adobe Photoshop logo"></a> 
 
 ### Projects
