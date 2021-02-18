@@ -5,8 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sungwon-lee&layout=compact)](https://github.com/daniel-sungwon-lee/github-readme-stats) [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sungwon-lee&hide=stars,contribs&show_icons=true&theme=graywhite)](https://github.com/daniel-sungwon-lee/github-readme-stats)
 
 ### Skills
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100" alt="JavaScript logo"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="71" alt="CSS logo"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100" alt="HTML logo"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" alt="JavaScript logo"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="43" alt="CSS logo"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="61" alt="HTML Logo"></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100" alt="Bootstrap logo"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="150" alt="React logo"></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100" alt="Node.js logo"></a>
@@ -20,8 +20,9 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="100" alt="VS Code logo"></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="100" alt="Adobe Photoshop logo"></a> 
 
+
 ### Contact
-<a href="https://www.linkedin.com/in/daniel-sungwon-lee/"><img src="https://static-exp1.licdn.com/sc/h/eahiplrwoq61f4uan012ia17i" width="100" alt="LinkedIn logo"></a> <a href="https://github.com/daniel-sungwon-lee"><img src="https://github.githubassets.com/pinned-octocat.svg" width="100" alt="GitHub logo"></a>
+<a href="https://www.linkedin.com/in/daniel-sungwon-lee/" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/eahiplrwoq61f4uan012ia17i" width="100" alt="LinkedIn logo"></a> <a href="https://github.com/daniel-sungwon-lee" target="_blank"><img src="https://github.githubassets.com/pinned-octocat.svg" width="100" alt="GitHub logo"></a>
 
 <!--
 **daniel-sungwon-lee/daniel-sungwon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
