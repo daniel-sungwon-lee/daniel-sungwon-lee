@@ -28,7 +28,6 @@
 ## Contacts
 <a href="https://www.linkedin.com/in/daniel-sungwon-lee/" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/eahiplrwoq61f4uan012ia17i" width="50" alt="LinkedIn logo"></a> <a href="https://github.com/daniel-sungwon-lee" target="_blank"><img src="https://github.githubassets.com/pinned-octocat.svg" width="50" alt="GitHub logo"></a> 
 <a href="mailto:danlee333@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Gmail logo"></a>
-![GitHub-Mark-Light-64px](https://user-images.githubusercontent.com/72715781/108299916-31b3f180-7154-11eb-8319-79d3f1439838.png)
 
 ## Resume
 [Click here to download resume](https://github.com/daniel-sungwon-lee/PPAL/files/5999818/daniel_lee_resume_v9.pdf)
