@@ -2,7 +2,7 @@
 
 **I'm a web developer who loves making high quality applications and websites with great design. I also love nature and cooking things from scratch.**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sungwon-lee&layout=compact&theme=dark) ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sungwon-lee&hide=stars,contribs&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sungwon-lee&layout=compact) ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sungwon-lee&hide=stars,contribs&show_icons=true&theme=graywhite)
 
 ## Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" alt="JavaScript logo"></a>
