@@ -7,22 +7,22 @@
 ### Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" alt="JavaScript logo"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="43" alt="CSS logo"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="61" alt="HTML Logo"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100" alt="Bootstrap logo"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="150" alt="React logo"></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="100" alt="Node.js logo"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="100" alt="PostgreSQL logo"></a>
-<a href="https://docs.npmjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="100" alt="npm logo"></a>
-<a href="https://webpack.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width="100" alt="Webpack logo"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" alt="Bootstrap logo"></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80" alt="React logo"></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="70" alt="Node.js logo"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL logo"></a>
+<a href="https://docs.npmjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="80" alt="npm logo"></a>
+<a href="https://webpack.js.org/" target="_blank"><img src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" width="60" alt="Webpack logo"></a>
 <a href="https://babeljs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg" width="100" alt="Babel logo"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="100" alt="Git logo"></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="65" alt="Figma logo"></a>
-<a href="https://www.heroku.com/" target="_blank"><img src="https://user-images.githubusercontent.com/69870979/108276035-0cab8880-712c-11eb-9ad5-eed4aa306fab.png" width="100" alt="Heroku logo"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="100" alt="VS Code logo"></a>
-<a href="https://www.photoshop.com/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="100" alt="Adobe Photoshop logo"></a> 
+<a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" alt="Git logo"></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="35" alt="Figma logo"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" alt="VS Code logo"></a>
+<a href="https://www.heroku.com/" target="_blank"><img src="https://user-images.githubusercontent.com/69870979/108276035-0cab8880-712c-11eb-9ad5-eed4aa306fab.png" width="50" alt="Heroku logo"></a>
+<a href="https://www.photoshop.com/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" alt="Adobe Photoshop logo"></a> 
 
 
 ### Contact
-<a href="https://www.linkedin.com/in/daniel-sungwon-lee/" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/eahiplrwoq61f4uan012ia17i" width="100" alt="LinkedIn logo"></a> <a href="https://github.com/daniel-sungwon-lee" target="_blank"><img src="https://github.githubassets.com/pinned-octocat.svg" width="100" alt="GitHub logo"></a>
+<a href="https://www.linkedin.com/in/daniel-sungwon-lee/" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/eahiplrwoq61f4uan012ia17i" width="50" alt="LinkedIn logo"></a> <a href="https://github.com/daniel-sungwon-lee" target="_blank"><img src="https://github.githubassets.com/pinned-octocat.svg" width="50" alt="GitHub logo"></a>
 
 <!--
 **daniel-sungwon-lee/daniel-sungwon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
