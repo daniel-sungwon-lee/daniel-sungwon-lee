@@ -1,4 +1,6 @@
-## Hello there, I'm Daniel
+<a href="https://dribbble.com/" target="_blank" rel="noreferrer"><img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350" alt="GIF"></a>
+
+## Hello there, I'm Daniel 
 
 **I'm a web developer who loves making high quality applications and websites with great design. I also love nature and cooking things from scratch.**
 
