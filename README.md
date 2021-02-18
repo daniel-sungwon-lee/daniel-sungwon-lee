@@ -1,4 +1,4 @@
-<a href="https://dribbble.com/" target="_blank" rel="noreferrer"><img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350" alt="GIF"></a>
+<a href="https://dribbble.com/" target="_blank" rel="noreferrer"><img align="right" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" width="350" style= "margin-top:24px;" alt="GIF"></a>
 
 ## Hello there, I'm Daniel 
 
