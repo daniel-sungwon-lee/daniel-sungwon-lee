@@ -25,7 +25,7 @@
 ## Projects
 <a href="https://ppalll.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108291189-ab44e300-7146-11eb-8baa-d61e9d01b015.png" width="100" alt="PPAL logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/PPAL)
 
-<a href="https://daniel-sungwon-lee.github.io/ajax-project/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108291308-ee06bb00-7146-11eb-9bee-6cad31f34de7.png" width="100" alt="RANDO logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/ajax-project)
+<a href="https://daniel-sungwon-lee.github.io/ajax-project/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108329985-32fc1300-7182-11eb-8063-2d7ce3246414.png" width="100" alt="RANDO logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/ajax-project)
 
 ## Contacts
 <a href="https://www.linkedin.com/in/daniel-sungwon-lee/" target="_blank"><img src="./linkedin.svg" width="50" alt="LinkedIn logo"></a> <a href="https://github.com/daniel-sungwon-lee" target="_blank"><img src="https://github.githubassets.com/pinned-octocat.svg" width="50" alt="GitHub logo"></a> 
