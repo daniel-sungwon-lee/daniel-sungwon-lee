@@ -1,10 +1,10 @@
-### Hello there, I'm Daniel
+## Hello there, I'm Daniel
 
 **I'm a web developer who loves making high quality applications and websites with great design. I also love nature and cooking things from scratch.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sungwon-lee&layout=compact)](https://github.com/daniel-sungwon-lee/github-readme-stats) [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sungwon-lee&hide=stars,contribs&show_icons=true&theme=graywhite)](https://github.com/daniel-sungwon-lee/github-readme-stats)
 
-### Skills
+## Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" alt="JavaScript logo"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="43" alt="CSS logo"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="61" alt="HTML Logo"></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" alt="Bootstrap logo"></a>
@@ -20,13 +20,16 @@
 <a href="https://www.heroku.com/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/873/873120.png" width="50" alt="Heroku logo"></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" alt="Adobe Photoshop logo"></a> 
 
-### Projects
+## Projects
 <a href="https://ppalll.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108291189-ab44e300-7146-11eb-8baa-d61e9d01b015.png" width="100" alt="PPAL logo"></a>
 <a href="https://daniel-sungwon-lee.github.io/ajax-project/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108291308-ee06bb00-7146-11eb-9bee-6cad31f34de7.png" width="100" alt="RANDO logo"></a>
 
-### Contact
+## Contacts
 <a href="https://www.linkedin.com/in/daniel-sungwon-lee/" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/eahiplrwoq61f4uan012ia17i" width="50" alt="LinkedIn logo"></a> <a href="https://github.com/daniel-sungwon-lee" target="_blank"><img src="https://github.githubassets.com/pinned-octocat.svg" width="50" alt="GitHub logo"></a> 
 <a href="mailto:danlee333@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Gmail logo"></a>
+
+## Resume
+[Click here to download resume](https://github.com/daniel-sungwon-lee/PPAL/files/5999818/daniel_lee_resume_v9.pdf)
 
 <!--
 **daniel-sungwon-lee/daniel-sungwon-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
