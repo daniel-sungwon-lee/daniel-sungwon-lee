@@ -5,11 +5,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sungwon-lee&layout=compact&theme=dark) ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sungwon-lee&hide=stars,contribs&show_icons=true&theme=dark)
 
 ## Skills
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" alt="JavaScript logo"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Devicon-css3-plain.svg" width="50" alt="CSS logo"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" alt="JavaScript logo"></a>
+<a href="https://reactjs.org/" target="_blank"><img src="./react-icon.svg" width="55" alt="React logo"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./css3.svg" width="44" alt="CSS logo"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="50" alt="HTML Logo"></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" alt="Bootstrap logo"></a>
-<a href="https://reactjs.org/" target="_blank"><img src="./react-icon.svg" width="55" alt="React logo"></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="70" alt="Node.js logo"></a>
+<a href="https://expressjs.com/" target="_blank"><img src="./express.svg" width="100" alt="Express logo"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL logo"></a>
 <a href="https://docs.npmjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="80" alt="npm logo"></a>
 <a href="https://webpack.js.org/" target="_blank"><img src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" width="60" alt="Webpack logo"></a>
