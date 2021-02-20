@@ -21,6 +21,8 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" alt="Git logo"></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="35" alt="Figma logo"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" alt="VS Code logo"></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50" alt="Bash logo"></a>
+<a href="https://www.json.org/json-en.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" width="50" alt="JSON logo"></a>
 <a href="https://www.heroku.com/" target="_blank"><img src="/some-icons/heroku.svg" width="50" alt="Heroku logo"></a>
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" alt="Adobe Photoshop logo"></a> 
 
