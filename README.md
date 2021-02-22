@@ -35,7 +35,7 @@
 
 ## Contacts
 <a href="https://danielsungwonlee.netlify.app/" target="_blank"><img src="some-icons/coding.svg" width="50" alt="Portfolio logo"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/daniel-sungwon-lee/" target="_blank"><img src="/some-icons/linkedin.svg" width="50" alt="LinkedIn logo"></a>&nbsp;&nbsp;&nbsp; <a href="https://github.com/daniel-sungwon-lee" target="_blank"><img src="https://github.githubassets.com/pinned-octocat.svg" width="50" alt="GitHub logo"></a>&nbsp;&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/daniel-sungwon-lee/" target="_blank"><img src="/some-icons/linkedin.svg" width="50" alt="LinkedIn logo"></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/daniel-sungwon-lee" target="_blank"><img src="https://github.githubassets.com/pinned-octocat.svg" width="50" alt="GitHub logo"></a>&nbsp;&nbsp;&nbsp; 
 <a href="mailto:danlee333@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Gmail logo"></a>
 
 ## Resume
