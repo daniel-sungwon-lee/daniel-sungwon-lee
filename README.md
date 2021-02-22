@@ -34,7 +34,7 @@
 <a href="https://daniel-sungwon-lee.github.io/ajax-project/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108329985-32fc1300-7182-11eb-8063-2d7ce3246414.png" width="100" alt="RANDO logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/ajax-project)
 
 ## Contacts
-<a href="https://danielsungwonlee.netlify.app/" target="_blank">hello</a>
+<a href="https://danielsungwonlee.netlify.app/" target="_blank"><img src="some-icons/coding.svg" width="50" alt="Portfolio logo"></a>
 <a href="https://www.linkedin.com/in/daniel-sungwon-lee/" target="_blank"><img src="/some-icons/linkedin.svg" width="50" alt="LinkedIn logo"></a> <a href="https://github.com/daniel-sungwon-lee" target="_blank"><img src="https://github.githubassets.com/pinned-octocat.svg" width="50" alt="GitHub logo"></a> 
 <a href="mailto:danlee333@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Gmail logo"></a>
 
