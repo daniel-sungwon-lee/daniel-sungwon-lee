@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/72715781/109117441-dd31e880-76f6-11eb-9022-d462d1d5bf95.png)
+
 <a href="https://dribbble.com/" target="_blank" rel="noreferrer"><img align="right" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" width="350" style= "margin-top:24px;" alt="GIF"></a>
 
 ## Hello there, I'm Daniel 
