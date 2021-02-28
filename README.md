@@ -13,6 +13,7 @@
 <a href="https://reactjs.org/" target="_blank"><img src="/some-icons/react-icon.svg" width="55" alt="React logo"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="/some-icons/css3.svg" width="44" alt="CSS logo"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="50" alt="HTML Logo"></a>
+<a href="https://material-ui.com/" target="_blank"><img src="https://material-ui.com/static/logo_raw.svg" width="61" alt="Material UI logo"></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" alt="Bootstrap logo"></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="70" alt="Node.js logo"></a>
 <a href="https://expressjs.com/" target="_blank"><img src="/some-icons/express.svg" width="100" alt="Express logo"></a>
