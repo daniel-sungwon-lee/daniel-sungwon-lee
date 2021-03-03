@@ -45,4 +45,4 @@
 <a href="mailto:danlee333@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Gmail logo"></a>
 
 ## Resume
-[Click here to download resume](https://github.com/daniel-sungwon-lee/code-journal/files/6031170/daniel-lee-resume.pdf)
+[Click here to download resume](https://github.com/daniel-sungwon-lee/w5h/files/6079064/daniel_lee_resume.pdf)
