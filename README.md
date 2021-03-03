@@ -32,7 +32,7 @@
 
 ## Projects
   ### W5H
-<a href="https://w5h.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/109741696-7000d600-7b82-11eb-8d0f-3dda609b6d3a.png" width="100" alt="W5H logo"></a>&nbsp;&nbsp; [GitHub repo](https://github.com/daniel-sungwon-lee/w5h)
+<a href="https://w5h.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/109741772-9757a300-7b82-11eb-9aa3-830da62281fd.png" width="100" alt="W5H logo"></a>&nbsp;&nbsp; [GitHub repo](https://github.com/daniel-sungwon-lee/w5h)
   ### PPAL
 <a href="https://ppalll.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108291189-ab44e300-7146-11eb-8baa-d61e9d01b015.png" width="100" alt="PPAL logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/PPAL)
   ### RANDO
