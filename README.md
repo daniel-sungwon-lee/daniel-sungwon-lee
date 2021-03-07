@@ -4,7 +4,7 @@
 
 ## Hello there, I'm Daniel 
 
-**I'm a web developer who loves making high quality applications and websites with great design. I also love nature and cooking from scratch.**
+**I'm a web developer who loves making high quality applications and websites with great, clean design. I also love nature and cooking from scratch.**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sungwon-lee&layout=compact) ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sungwon-lee&hide=stars,contribs&show_icons=true&theme=graywhite)
 
