@@ -47,4 +47,4 @@
 <a href="mailto:danlee333@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Gmail logo"></a>
 
 ## Resume
-[Click here for resume](https://drive.google.com/file/d/1eUHycBYYh7i3KrEvd1beubIMckDCor24/view?usp=sharing)
+[Click here for Resume](https://drive.google.com/file/d/1eUHycBYYh7i3KrEvd1beubIMckDCor24/view?usp=sharing)
