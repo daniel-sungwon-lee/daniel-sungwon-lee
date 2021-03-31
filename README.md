@@ -19,6 +19,7 @@
 <a href="https://expressjs.com/" target="_blank"><img src="/some-icons/express.svg" width="100" alt="Express logo"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL logo"></a>
 <a href="https://docs.npmjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="80" alt="npm logo"></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="60" alt="Redux logo"></a>
 <a href="https://webpack.js.org/" target="_blank"><img src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" width="60" alt="Webpack logo"></a>
 <a href="https://babeljs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg" width="100" alt="Babel logo"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" alt="Git logo"></a>
@@ -37,6 +38,8 @@
 <a href="https://w5h.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/109741772-9757a300-7b82-11eb-9aa3-830da62281fd.png" width="100" alt="W5H logo"></a>&nbsp;&nbsp; [GitHub repo](https://github.com/daniel-sungwon-lee/w5h)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/dqO3EpFPPvc)
   ### PPAL
 <a href="https://ppalll.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108291189-ab44e300-7146-11eb-8baa-d61e9d01b015.png" width="100" alt="PPAL logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/PPAL)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/nHrbjpGZWAQ)
+  ### Dopetox
+<a href="https://dopetox.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/113223304-b7d85300-923d-11eb-9fce-42db501edf63.png" width="100" alt="Dopetox logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/Dopetox)
   ### RANDO
 <a href="https://daniel-sungwon-lee.github.io/ajax-project/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108329985-32fc1300-7182-11eb-8063-2d7ce3246414.png" width="100" alt="RANDO logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/ajax-project)
 
