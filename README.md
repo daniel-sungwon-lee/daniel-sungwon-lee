@@ -47,7 +47,8 @@
 <a href="https://danielsungwonlee.netlify.app/" target="_blank"><img src="some-icons/coding.svg" width="50" alt="Portfolio logo"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/daniel-sungwon-lee/" target="_blank"><img src="/some-icons/linkedin.svg" width="50" alt="LinkedIn logo"></a>&nbsp;&nbsp;
 <a href="https://github.com/daniel-sungwon-lee" target="_blank"><img src="https://github.githubassets.com/pinned-octocat.svg" width="50" alt="GitHub logo"></a>&nbsp;&nbsp;
-<a href="mailto:danlee333@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Gmail logo"></a>
+<a href="mailto:danlee333@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" alt="Gmail logo"></a>&nbsp;&nbsp;
+<a href="https://careerkarma.com/profile/cklfoslqxil7e0891ev469cc7/" target="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O4Kb16Gw--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1763/371a1598-527f-4ff8-b032-c1db73c8ab76.png" width="45" alt="Career Karma logo"></a>
 
 ## Resume
 [Click here for Resume](https://drive.google.com/file/d/1eUHycBYYh7i3KrEvd1beubIMckDCor24/view?usp=sharing)
