@@ -32,6 +32,8 @@
 <a href="https://www.netlify.com/" target="_blank"><img src="https://www.netlify.com/img/press/logos/logomark.svg" width="50" alt="Netlify logo"></a>
 
 ## Projects
+  ### Daily
+<a href="https://dailyyy.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/116969827-c914e500-ac6b-11eb-987b-dd49c510e7db.png" width="100" alt="Daily logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/daily)
   ### LightBlb
 <a href="https://lightblbb.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/111272029-49fe1b80-85ef-11eb-8977-a5b654963b63.png" width="100" alt="LightBlb logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/LightBlb)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/Gv7qISqOR9Q)
   ### W5H
