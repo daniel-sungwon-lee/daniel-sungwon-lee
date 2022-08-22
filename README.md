@@ -55,4 +55,4 @@
 <a href="https://careerkarma.com/profile/cklfoslqxil7e0891ev469cc7/" target="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O4Kb16Gw--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1763/371a1598-527f-4ff8-b032-c1db73c8ab76.png" width="45" alt="Career Karma logo"></a>
 
 ## Resume
-[Click here for Resume](https://drive.google.com/file/d/1eUHycBYYh7i3KrEvd1beubIMckDCor24/view?usp=sharing)
+[Click here for Resume](https://drive.google.com/file/d/15bjYYhUDaMKPosp0bxhC_7zjuXK-sVNP/view?usp=sharing)
