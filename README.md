@@ -1,12 +1,12 @@
-<!--![banner](https://user-images.githubusercontent.com/72715781/109117441-dd31e880-76f6-11eb-9022-d462d1d5bf95.png)--->
+![banner](https://user-images.githubusercontent.com/72715781/109117441-dd31e880-76f6-11eb-9022-d462d1d5bf95.png)
 
 <a href="https://dribbble.com/" target="_blank" rel="noreferrer"><img align="right" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif" width="350" style= "margin-top:24px;" alt="GIF"></a>
 
-## Hello there<!--, I'm Daniel--> 
+## Hello there, I'm Daniel
 
 ### I'm a web developer who loves making high quality applications and websites with great, clean design. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sungwon-lee&layout=compact) <!--![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sungwon-lee&hide=stars,contribs&show_icons=true&theme=graywhite)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sungwon-lee&layout=compact) ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sungwon-lee&hide=stars,contribs&show_icons=true&theme=graywhite)
 
 ## Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" alt="JavaScript logo"></a>
