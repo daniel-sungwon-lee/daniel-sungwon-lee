@@ -42,17 +42,17 @@
   ### FinTrack
 <a href="https://fintrack-beta.vercel.app/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons-colored/fintrack.svg" width="100" alt="FinTrack logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/fintrack)
   ### LightBlb
-<a href="https://lightblbb.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/111272029-49fe1b80-85ef-11eb-8977-a5b654963b63.png" width="100" alt="LightBlb logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/LightBlb)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/Gv7qISqOR9Q)
+<a href="https://lightblb.up.railway.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/111272029-49fe1b80-85ef-11eb-8977-a5b654963b63.png" width="100" alt="LightBlb logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/LightBlb)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/Gv7qISqOR9Q)
   ### Daily
-<a href="https://dailyyy.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/116969827-c914e500-ac6b-11eb-987b-dd49c510e7db.png" width="100" alt="Daily logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/daily)
+<a href="https://daily.up.railway.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/116969827-c914e500-ac6b-11eb-987b-dd49c510e7db.png" width="100" alt="Daily logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/daily)
   ### This or That
 <a href="https://thisorthattt.netlify.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/123024225-921aa000-d38d-11eb-89e1-0efe194d067e.png" width="100" alt="This or That logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/thisorthat)
   ### W5H
-<a href="https://w5h.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/109741772-9757a300-7b82-11eb-9aa3-830da62281fd.png" width="100" alt="W5H logo"></a>&nbsp;&nbsp; [GitHub repo](https://github.com/daniel-sungwon-lee/w5h)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/dqO3EpFPPvc)
+<a href="https://w5h.up.railway.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/109741772-9757a300-7b82-11eb-9aa3-830da62281fd.png" width="100" alt="W5H logo"></a>&nbsp;&nbsp; [GitHub repo](https://github.com/daniel-sungwon-lee/w5h)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/dqO3EpFPPvc)
   ### PPAL
 <a href="https://ppalll.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108291189-ab44e300-7146-11eb-8baa-d61e9d01b015.png" width="100" alt="PPAL logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/PPAL)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/nHrbjpGZWAQ)
   ### Dopetox
-<a href="https://dopetox.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/113223304-b7d85300-923d-11eb-9fce-42db501edf63.png" width="100" alt="Dopetox logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/Dopetox)
+<a href="https://dopetox.up.railway.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/113223304-b7d85300-923d-11eb-9fce-42db501edf63.png" width="100" alt="Dopetox logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/Dopetox)
   ### RANDO
 <a href="https://daniel-sungwon-lee.github.io/ajax-project/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108329985-32fc1300-7182-11eb-8063-2d7ce3246414.png" width="100" alt="RANDO logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/ajax-project)
 
