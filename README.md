@@ -50,7 +50,7 @@
   ### W5H
 <a href="https://w5h.up.railway.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/109741772-9757a300-7b82-11eb-9aa3-830da62281fd.png" width="100" alt="W5H logo"></a>&nbsp;&nbsp; [GitHub repo](https://github.com/daniel-sungwon-lee/w5h)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/dqO3EpFPPvc)
   ### PPAL
-<a href="https://ppalll.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108291189-ab44e300-7146-11eb-8baa-d61e9d01b015.png" width="100" alt="PPAL logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/PPAL)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/nHrbjpGZWAQ)
+<a href="https://ppal.up.railway.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/108291189-ab44e300-7146-11eb-8baa-d61e9d01b015.png" width="100" alt="PPAL logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/PPAL)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/nHrbjpGZWAQ)
   ### Dopetox
 <a href="https://dopetox.up.railway.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/113223304-b7d85300-923d-11eb-9fce-42db501edf63.png" width="100" alt="Dopetox logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/Dopetox)
   ### RANDO
