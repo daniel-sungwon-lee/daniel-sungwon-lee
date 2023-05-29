@@ -40,7 +40,7 @@
 
 ## Projects
   ### FinTrack
-<a href="https://fintrack-beta.vercel.app/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons-colored/fintrack.svg" width="100" alt="FinTrack logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/fintrack)
+<a href="https://fintrack-beta.vercel.app/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons-colored/fintrack.svg" width="100" alt="FinTrack logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/fintrack)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/pIRV4APBsnI)
   ### LightBlb
 <a href="https://lightblb.up.railway.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/111272029-49fe1b80-85ef-11eb-8977-a5b654963b63.png" width="100" alt="LightBlb logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/LightBlb)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/Gv7qISqOR9Q)
   ### Daily
