@@ -41,6 +41,8 @@
 ## Projects
   ### FinTrack
 <a href="https://fintrack-beta.vercel.app/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons-colored/fintrack.svg" width="100" alt="FinTrack logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/fintrack)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/pIRV4APBsnI)
+  ### Goals
+<a href="https://goalsss.netlify.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/248635960-318cd072-0ed8-4082-bdca-f65dd4a0fd3e.png" width="100" alt="Goals logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/goals)&nbsp;&nbsp;&nbsp;
   ### LightBlb
 <a href="https://lightblb.up.railway.app/" target="_blank"><img src="https://user-images.githubusercontent.com/72715781/111272029-49fe1b80-85ef-11eb-8977-a5b654963b63.png" width="100" alt="LightBlb logo"></a> [GitHub repo](https://github.com/daniel-sungwon-lee/LightBlb)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/Gv7qISqOR9Q)
   ### Daily
