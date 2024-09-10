@@ -21,7 +21,7 @@
 <a href="https://expressjs.com/" target="_blank"><img src="/some-icons/express.svg" width="100" alt="Express logo"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" alt="PostgreSQL logo"></a>
 <a href="https://docs.npmjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="80" alt="npm logo"></a>
-<a href="https://greensock.com/" target="_blank"><img src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" width="55" alt="GreenSock logo"></a>
+<a href="https://greensock.com/" target="_blank"><img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg" width="80" alt="GreenSock logo"></a>
 <a href="https://vercel.com/home" target="_blank"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png" width="55" alt="Vercel logo"></a>
 <a href="https://railway.app/" target="_blank"><img src="https://railway.app/brand/logo-light.svg" width="55" alt="Railway logo"></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://danielsungwonlee.netlify.app/images/php.png" width="75" alt="PHP logo"></a>
