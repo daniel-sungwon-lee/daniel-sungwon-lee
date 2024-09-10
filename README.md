@@ -39,6 +39,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons-colored/ts-logo.svg" width="55" alt="TypeScript logo"></a>
 
 ## Projects
+  ### Chameleon
+<a href="https://chameeleongame.netlify.app/" target="_blank"><img src="https://github.com/user-attachments/assets/91bad575-994b-4e14-aa96-63804a4ba7a7" width="100" alt="Chameleon logo"></a> &nbsp;
   ### FinTrack
 <a href="https://fintrack-beta.vercel.app/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons-colored/fintrack.svg" width="100" alt="FinTrack logo"></a> &nbsp;[GitHub repo](https://github.com/daniel-sungwon-lee/fintrack)&nbsp;&nbsp;&nbsp; [Video walkthrough](https://youtu.be/pIRV4APBsnI)
   ### Goals
