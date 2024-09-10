@@ -12,6 +12,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" alt="JavaScript logo"></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://nextjs.org/static/favicon/favicon.ico" width="55" alt="Next.js logo"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="/some-icons/react-icon.svg" width="55" alt="React logo"></a>
+<a href="https://expo.dev/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons/expo.svg" width="55" alt="Expo logo"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="/some-icons/css3.svg" width="44" alt="CSS logo"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="50" alt="HTML Logo"></a>
 <a href="https://material-ui.com/" target="_blank"><img src="https://mui.com/static/icons/180x180.png" width="61" alt="Material UI logo"></a>
