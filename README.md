@@ -13,6 +13,7 @@
 <a href="https://nextjs.org/" target="_blank"><img src="https://nextjs.org/static/favicon/favicon.ico" width="55" alt="Next.js logo"></a>
 <a href="https://reactjs.org/" target="_blank"><img src="/some-icons/react-icon.svg" width="55" alt="React logo"></a>
 <a href="https://expo.dev/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons/expo.svg" width="55" alt="Expo logo"></a>
+<a href="https://supabase.com/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons-colored/supabase-logo-icon.svg" width="55" alt="Supabase logo"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="/some-icons/css3.svg" width="44" alt="CSS logo"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="50" alt="HTML Logo"></a>
 <a href="https://material-ui.com/" target="_blank"><img src="https://mui.com/static/icons/180x180.png" width="61" alt="Material UI logo"></a>
@@ -23,6 +24,8 @@
 <a href="https://docs.npmjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="80" alt="npm logo"></a>
 <a href="https://greensock.com/" target="_blank"><img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg" width="80" alt="GreenSock logo"></a>
 <a href="https://vercel.com/home" target="_blank"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png" width="55" alt="Vercel logo"></a>
+<a href="https://developer.apple.com/app-store-connect/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons-colored/appStoreConnect.svg" width="55" alt="App Store Connect logo"></a>
+<a href="https://developer.android.com/distribute/console" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons-colored/googlePlayConsole.svg" width="55" alt="Google Play Console logo"></a>
 <a href="https://railway.app/" target="_blank"><img src="https://railway.app/brand/logo-light.svg" width="55" alt="Railway logo"></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://danielsungwonlee.netlify.app/images/php.png" width="75" alt="PHP logo"></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="60" alt="Redux logo"></a>
@@ -37,6 +40,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50" alt="Adobe Photoshop logo"></a> 
 <a href="https://www.netlify.com/" target="_blank"><img src="https://app.netlify.com/favicon.ico" width="50" alt="Netlify logo"></a>
 <a href="https://plaid.com/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons/plaid.svg" width="95" alt="Plaid logo">
+<a href="https://www.revenuecat.com/" target="_blank"><img src="https://danielsungwonlee.netlify.app/images/revenueCat.png" width="55" alt="RevenueCat logo"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://danielsungwonlee.netlify.app/icons-colored/ts-logo.svg" width="55" alt="TypeScript logo"></a>
 
 ## Projects
